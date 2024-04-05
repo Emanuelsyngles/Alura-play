@@ -84,12 +84,19 @@
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
     },
-  {
-    "titulo": "Curso de Ciência da Computação | #HipstersPontoTube",
-    "descricao": "7 mil visualizações",
-    "url": "https://www.youtube.com/embed/Kkg1cjVoYq4",
-    "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-    "id": 13
-  }
-]
+    {
+      "titulo": "Curso de Ciência da Computação | #HipstersPontoTube",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/Kkg1cjVoYq4",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 13
+    },
+    {
+      "id": "0508",
+      "titulo": "Impostos no exterior: um guia para devs do Brasil que trabalham fora",
+      "descricao": "5 mil visualizações",
+      "url": "https://www.youtube.com/embed/fgVutZCA674",
+      "imagem": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.ead.unipar.br%2F2021%2F03%2Finovacao-e-tecnologia-conheca-os-profissionais-da-area%2F&psig=AOvVaw307MY6vw9QoBDD1Foay2-U&ust=1712442483182000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiV08GPrIUDFQAAAAAdAAAAABAE"
+    }
+  ]
 }
