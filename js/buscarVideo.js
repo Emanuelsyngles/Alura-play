@@ -12,9 +12,13 @@ async function buscarVideo(evento) {
         lista.removeChild(lista.firstChild);
     }
 
-    busca.forEach(elemento => lista.appendChild(
-        constroiCard(elemento.titulo, elemento.descricao, elemento.url, elemento.imagem)))
-}
+    if (typeof busca === 'object' && busca !==null) {
+        lista.appendChild(
+            constroiCard(busca.titulo, busca.descricao, busca.imagem))
+        } else {
+            lista.innerHTML = '<h2 class="mensagem__titulo">Não foi possivel exibir o video com esse titulo, tente novamente mais tarde</h2>'
+        }
+    }
 
 const botaoDePesquisa = document.querySelector("[data-botao-pesquisa]");
 
