@@ -6,7 +6,7 @@
 <p align="center">Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos.</p>
 
 ## Status
--- peodução
+-- Concluido 🚩
 
 ## Tecnologias utilizadas durante o curso
 * Javascript
